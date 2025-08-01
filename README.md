@@ -33,6 +33,7 @@ import { getDataFromApi } from "./utils/api.js";
     └── utils/
         ├── database.js
         └── api.js
+        
 ⚙️ Funcionalidades
 database.js
 Simula conexão e desconexão com banco de dados:
